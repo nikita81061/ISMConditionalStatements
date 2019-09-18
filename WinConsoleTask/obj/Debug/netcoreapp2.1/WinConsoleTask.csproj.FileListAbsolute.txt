@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\ISM\ISMConditionalStatements1\WinConsoleTask\bin\Debug\netcoreapp2.1\WinConsoleTask.deps.json
+C:\Users\USER\Desktop\ISM\ISMConditionalStatements1\WinConsoleTask\bin\Debug\netcoreapp2.1\WinConsoleTask.runtimeconfig.json
+C:\Users\USER\Desktop\ISM\ISMConditionalStatements1\WinConsoleTask\bin\Debug\netcoreapp2.1\WinConsoleTask.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ISM\ISMConditionalStatements1\WinConsoleTask\bin\Debug\netcoreapp2.1\WinConsoleTask.dll
+C:\Users\USER\Desktop\ISM\ISMConditionalStatements1\WinConsoleTask\bin\Debug\netcoreapp2.1\WinConsoleTask.pdb
+C:\Users\USER\Desktop\ISM\ISMConditionalStatements1\WinConsoleTask\obj\Debug\netcoreapp2.1\WinConsoleTask.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ISM\ISMConditionalStatements1\WinConsoleTask\obj\Debug\netcoreapp2.1\WinConsoleTask.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ISM\ISMConditionalStatements1\WinConsoleTask\obj\Debug\netcoreapp2.1\WinConsoleTask.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ISM\ISMConditionalStatements1\WinConsoleTask\obj\Debug\netcoreapp2.1\WinConsoleTask.AssemblyInfo.cs
+C:\Users\USER\Desktop\ISM\ISMConditionalStatements1\WinConsoleTask\obj\Debug\netcoreapp2.1\WinConsoleTask.dll
+C:\Users\USER\Desktop\ISM\ISMConditionalStatements1\WinConsoleTask\obj\Debug\netcoreapp2.1\WinConsoleTask.pdb
